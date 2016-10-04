@@ -1,19 +1,7 @@
 {
   "name": "talkapy",
   "version": "0.0.1",
-  "description": "",
-  "main": "main.js",
   "scripts": {
-    "start": "./main.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/alexischarles555/talkapy.git"
-  },
-  "author": "Alexis",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/alexischarles555/talkapy/issues"
-  },
-  "homepage": "https://github.com/alexischarles555/talkapy#readme"
+    "start": "node ./main.js"
+  }
 }
